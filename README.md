@@ -1,6 +1,8 @@
 # coxr
 Fit Robustly Proportional Hazards Regression Model Use coxr (coxrobust) With (In) R Software
 
+https://www.youtube.com/watch?v=5hBiQUglh_I
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
